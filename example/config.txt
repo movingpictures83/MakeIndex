@@ -1,0 +1,2 @@
+Prefix plugins/MakeIndex/example
+Plugin MakeIndex inputfile mappedReads.bam outputfile mappedReads.bai
